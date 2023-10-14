@@ -32,10 +32,11 @@ Apple's bold pledge to achieve carbon neutrality is more than just a target – 
 •	Apple's Carbon Footprint: A Deep Dive into Environmental Initiatives
   In a recent report released by Apple, we delve into the data to analyze their environmental efforts and the likelihood of success in achieving their ambitious 
   carbon-neutral goal. Let's break it down:
-•	Emission Overview: The report provides insights into how much carbon emissions occurred in each year relative to their product releases.
-•	Carbon Removal: We also explore the substantial steps Apple has taken in removing CO2 from the atmosphere.
-•	Data Visualization: A bar chart comparison illustrates how Apple's emissions align with the yearly total emissions, offering a visual perspective.
-•	Aggregate Emissions by Descriptions: Top 3 Emission by Scope-3  How they Achieve: Understanding Scope: The report distinguishes emissions into three scopes: 
+•	**Emission Overview:** The report provides insights into how much carbon emissions occurred in each year relative to their product releases.
+•	**Carbon Removal:** We also explore the substantial steps Apple has taken in removing CO2 from the atmosphere.
+•	**Data Visualization:** A bar chart comparison illustrates how Apple's emissions align with the yearly total emissions, offering a visual perspective.
+•	**Aggregate Emissions by Descriptions:** Top 3 Emission by Scope-3  
+**How they Achieve:Understanding Scope:** The report distinguishes emissions into three scopes: 
   direct emissions (Scope 1), indirect emissions (Scope 2), and other indirect emissions related to products (Scope 3). Our data analysis reveals that Scope 3, 
   tied to product use and transport, is where a significant portion of indirect emissions occur. Apple must address this to meet their carbon-neutral commitment..
   Can They Free Mother Earth from CO2?
@@ -44,7 +45,7 @@ Apple's bold pledge to achieve carbon neutrality is more than just a target – 
 
 **We have room for improvement in the following areas**
 
-*Business Travel Emissions Reduction: Drive with low-emission transport for further reductions
+***Business Travel Emissions Reduction:** Drive with low-emission transport for further reductions
 ***Profitability and Emissions:** Profits during the pandemic show financial benefits of emission reduction.
 ***Critical Product Emissions:** Focus on renewable energy for manufacturers to cut emissions.
 ***Promoting Renewable Energy:** Encourage suppliers to use renewable sources for emission reduction.
@@ -57,7 +58,7 @@ The reductions we've achieved within our direct sphere of influence are commenda
 combat carbon emissions. We are part of a global community with a shared obligation to preserve our planet
 
 **Collaborative Partnerships for Sustainability:** Forge alliances with like-minded organizations to strengthen sustainability efforts.
-** Environmental Advocacy and Influence:** Leverage our influence to champion environmental responsibility and green practices.
+**Environmental Advocacy and Influence:** Leverage our influence to champion environmental responsibility and green practices.
 **Innovation in Green Technology:** Sustain investments in eco-friendly technology and sustainable practices.
 **Transparency and Stakeholder Engagement**:Maintain transparent emissions reporting and engage stakeholders in our shared commitment.
 **Empowering Through Education:** Develop educational programs to raise awareness and empower communities in emission reduction.
