@@ -1,5 +1,10 @@
 # Apple-Analysis-Project-
-Carbon Neutral Project Analysis
+
+**Challenge Objective**
+In 2020, after announcing their corporate operations were officially carbon neutral, Apple pledged to make their products carbon neutral by 2030. To achieve this goal, they set their emissions for 2015 (38.4 million metric tons CO2e) as the baseline and will aim to reduce them by 75% by 2030. The remaining 25% of gross emissions (9.6 million metric tons CO2e) will be removed using carbon offsets, bringing the net emissions to 0.
+For the Maven Environmental Challenge, you'll be working as an independent journalist and data viz enthusiast. Your task is to use the data provided by Apple in their Environmental Progress Reports to visualize their progress towards becoming carbon neutral in 2030.
+
+**Carbon Neutral Project Analysis**
 
 https://www.canva.com/design/DAFxEJ039WQ/r64nS5-vNHMCJMLKHpntOQ/view?utm_content=DAFxEJ039WQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel canva design
 Apple Carbon Neutral Project:
